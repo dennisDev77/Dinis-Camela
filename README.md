@@ -1,4 +1,4 @@
-## 💜 Olá, eu sou Dinis Camela!
+# Olá, eu sou Dinis Camela!
 
 ### Desenvolvedor Front End
 
